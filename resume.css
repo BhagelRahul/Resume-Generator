@@ -1,0 +1,16 @@
+ body{
+    background: rgb(156, 171, 203);
+ }
+    
+    #cv-template{
+        display: none;
+    }
+ .myimg{
+    border: 1px solid black;
+    border-radius: 50%;
+      width: 200px;
+      height: 200px;
+ }
+ .background{
+        background:rgb(186, 206, 225);
+ }
